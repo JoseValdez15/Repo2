@@ -1,4 +1,8 @@
 pseudocode
 new code file
+<<<<<<< HEAD
 adding a new lline of code
 New line for hw 5
+=======
+adding a new lline of code
+>>>>>>> 3b0793df57da84302412db16acb87a06df91bded
